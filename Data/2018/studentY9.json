@@ -1,0 +1,12444 @@
+{
+ "Student": [
+  {
+   "name": "Liyana Adnan",
+   "parents": [
+    {
+     "name": "Hj Md Adnan Hj Md Jaafar"
+    },
+    {
+     "name": "Salina Pg Hj Alli"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Blackeye Students"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class BKhALT"
+    },
+    {
+     "name": "Class BKhALT"
+    },
+    {
+     "name": "Class Blackeye House"
+    },
+    {
+     "name": "House Blackeye House"
+    },
+    {
+     "name": "RegGrp BKhALT"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Nabil Aeddie",
+   "parents": [
+    {
+     "name": "Aeddie m Pg Hj Md Ja'afar"
+    },
+    {
+     "name": "Sri Rohayou Pg Matarsat"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Argus Students"
+    },
+    {
+     "name": "Class 9AMaNIA"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YMo1AFA"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class AGhWIK"
+    },
+    {
+     "name": "Class AGhWIK"
+    },
+    {
+     "name": "Class Argus House"
+    },
+    {
+     "name": "House Argus House"
+    },
+    {
+     "name": "RegGrp AGhWIK"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Nadya Affendy",
+   "parents": [
+    {
+     "name": "Dr Sabrina Abdul Azim Lim"
+    },
+    {
+     "name": "Dr Affendy Pehin Dato Haji Abidin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhPK"
+    },
+    {
+     "name": "Class SLhPK"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhPK"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Raiyan Affendy",
+   "parents": [
+    {
+     "name": "Dr Sabrina Abdul Azim Lim"
+    },
+    {
+     "name": "Dr Affendy Pehin Dato Haji Abidin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class Frogmouth House"
+    },
+    {
+     "name": "Frogmouth Students"
+    },
+    {
+     "name": "House Frogmouth House"
+    },
+    {
+     "name": "RegGrp FMhSIA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Suhaima Ahmad",
+   "parents": [
+    {
+     "name": "Mubassir Harun Ahmad"
+    },
+    {
+     "name": "Wasefa Zafar"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class Sandpiper House"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "House Sandpiper House"
+    },
+    {
+     "name": "RegGrp SPhJNB"
+    },
+    {
+     "name": "Sandpiper Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Ryan Ait Oumessaoud",
+   "parents": [
+    {
+     "name": "Mourad Ait Oumessaoud"
+    },
+    {
+     "name": "Josephine Lina Tan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YMo1AFA"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class Frogmouth House"
+    },
+    {
+     "name": "Frogmouth Students"
+    },
+    {
+     "name": "House Frogmouth House"
+    },
+    {
+     "name": "RegGrp FMhSIA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Sarah Ali",
+   "parents": [
+    {
+     "name": "Hjh Azlinah Hj Matsarudin"
+    },
+    {
+     "name": "Ali Hj Md Yusof"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YCp1FH"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class Heron House"
+    },
+    {
+     "name": "Class HRhSH"
+    },
+    {
+     "name": "Class HRhSH"
+    },
+    {
+     "name": "Heron Students"
+    },
+    {
+     "name": "House Heron House"
+    },
+    {
+     "name": "RegGrp HRhSH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "'Aqiel Aliamat",
+   "parents": [
+    {
+     "name": "Aliamat Omar Ali"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YMo1AFA"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class SFhPHM"
+    },
+    {
+     "name": "Class SFhPHM"
+    },
+    {
+     "name": "Class Swift House"
+    },
+    {
+     "name": "House Swift House"
+    },
+    {
+     "name": "RegGrp SFhPHM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Swift Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Woei Qi Ang",
+   "parents": [
+    {
+     "name": "Sook Ney (Yvonne) Ang"
+    },
+    {
+     "name": "Thian Cheok Ang"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZCn2WEI"
+    },
+    {
+     "name": "Class Heron House"
+    },
+    {
+     "name": "Class HRhROB"
+    },
+    {
+     "name": "Class HRhROB"
+    },
+    {
+     "name": "Heron Students"
+    },
+    {
+     "name": "House Heron House"
+    },
+    {
+     "name": "RegGrp HRhROB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Humoyra Anzum",
+   "parents": [
+    {
+     "name": "Md Iqbal Hussain"
+    },
+    {
+     "name": "Shahida Iqbal"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9XMy1MEA"
+    },
+    {
+     "name": "Class 9YCp1FH"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhPK"
+    },
+    {
+     "name": "Class SLhPK"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhPK"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Gabriel Arciniegas",
+   "parents": [
+    {
+     "name": "Omar Enrique Arciniegas"
+    },
+    {
+     "name": "Nathaly Andreina Famiglietti"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YSpEMT"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class IBhJRB"
+    },
+    {
+     "name": "Class IBhJRB"
+    },
+    {
+     "name": "Class Ibis House"
+    },
+    {
+     "name": "House Ibis House"
+    },
+    {
+     "name": "Ibis Students"
+    },
+    {
+     "name": "RegGrp IBhJRB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Sabrina Ariffin",
+   "parents": [
+    {
+     "name": "Ariffin Aman"
+    },
+    {
+     "name": "Hjh Normaya Haji Musri"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YCp1FH"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class Whistler House"
+    },
+    {
+     "name": "Class WLhMJO"
+    },
+    {
+     "name": "Class WLhMJO"
+    },
+    {
+     "name": "House Whistler House"
+    },
+    {
+     "name": "RegGrp WLhMJO"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Whistler Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Aida Asmadi",
+   "parents": [
+    {
+     "name": "Asmadi Md Tuah"
+    },
+    {
+     "name": "Pg Md Hassan Norhashimah"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Blackeye Students"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class BKhLOP"
+    },
+    {
+     "name": "Class BKhLOP"
+    },
+    {
+     "name": "Class Blackeye House"
+    },
+    {
+     "name": "House Blackeye House"
+    },
+    {
+     "name": "RegGrp BKhLOP"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Qawi Asmadi",
+   "parents": [
+    {
+     "name": "Muryati Karyadi"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class Eagle House"
+    },
+    {
+     "name": "Class EGhDNS"
+    },
+    {
+     "name": "Class EGhDNS"
+    },
+    {
+     "name": "Eagle Students"
+    },
+    {
+     "name": "House Eagle House"
+    },
+    {
+     "name": "RegGrp EGhDNS"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Afiq Asri",
+   "parents": [
+    {
+     "name": "Afidah Hussian"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9E2LYH"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class IBhJRB"
+    },
+    {
+     "name": "Class IBhJRB"
+    },
+    {
+     "name": "Class Ibis House"
+    },
+    {
+     "name": "House Ibis House"
+    },
+    {
+     "name": "Ibis Students"
+    },
+    {
+     "name": "RegGrp IBhJRB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Ko Ko Aung",
+   "parents": [
+    {
+     "name": "@ Mohamed Husein Khin Maung Than"
+    },
+    {
+     "name": "@ Hawa Thin Thin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhSCC"
+    },
+    {
+     "name": "Class BBhSCC"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhSCC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Isabella Austin",
+   "parents": [
+    {
+     "name": "Matthew Austin"
+    },
+    {
+     "name": "Sarah Austin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaGEJ"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YFr2PE"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class KFhROC"
+    },
+    {
+     "name": "Class KFhROC"
+    },
+    {
+     "name": "Class Kingfisher House"
+    },
+    {
+     "name": "House Kingfisher House"
+    },
+    {
+     "name": "Kingfisher Students"
+    },
+    {
+     "name": "RegGrp KFhROC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Aiman Azhan",
+   "parents": [
+    {
+     "name": "Hj Azhan Hj Abd Karim"
+    },
+    {
+     "name": "Hjh Siti Aidah Hj Mohammad"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class Hawk House"
+    },
+    {
+     "name": "Class HKhPAH"
+    },
+    {
+     "name": "Class HKhPAH"
+    },
+    {
+     "name": "Hawk Students"
+    },
+    {
+     "name": "House Hawk House"
+    },
+    {
+     "name": "RegGrp HKhPAH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Danial Azme",
+   "parents": [
+    {
+     "name": "Zurairatul Zakiah Dato Hj Rajid"
+    },
+    {
+     "name": "Azme Hj Matali"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class IBhJRB"
+    },
+    {
+     "name": "Class IBhJRB"
+    },
+    {
+     "name": "Class Ibis House"
+    },
+    {
+     "name": "House Ibis House"
+    },
+    {
+     "name": "Ibis Students"
+    },
+    {
+     "name": "RegGrp IBhJRB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Arian Bahreininejad",
+   "parents": [
+    {
+     "name": "Ardeshir Bahreininejad"
+    },
+    {
+     "name": "Atoosa Mannani"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Argus Students"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YFr2PE"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class AGhREB"
+    },
+    {
+     "name": "Class AGhREB"
+    },
+    {
+     "name": "Class Argus House"
+    },
+    {
+     "name": "House Argus House"
+    },
+    {
+     "name": "RegGrp AGhREB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Kabi Balendran",
+   "parents": [
+    {
+     "name": "Balendran Balasingam"
+    },
+    {
+     "name": "Gauri Markandan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XMy1MEA"
+    },
+    {
+     "name": "Class 9YCp1FH"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class MNhCR"
+    },
+    {
+     "name": "Class MNhCR"
+    },
+    {
+     "name": "Class Monarch House"
+    },
+    {
+     "name": "House Monarch House"
+    },
+    {
+     "name": "Monarch Students"
+    },
+    {
+     "name": "RegGrp MNhCR"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Joe Barton",
+   "parents": [
+    {
+     "name": "Jonathan Barton"
+    },
+    {
+     "name": "Rachel Barton"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhCA"
+    },
+    {
+     "name": "Class BBhCA"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhCA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Sebastian Battiston",
+   "parents": [
+    {
+     "name": "Federico Battiston"
+    },
+    {
+     "name": "Norma Vargas"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Argus Students"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9E2MID"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YSpEMT"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class AGhAJC"
+    },
+    {
+     "name": "Class AGhAJC"
+    },
+    {
+     "name": "Class Argus House"
+    },
+    {
+     "name": "House Argus House"
+    },
+    {
+     "name": "RegGrp AGhAJC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Enya Brooks",
+   "parents": [
+    {
+     "name": "Jason B Brooks"
+    },
+    {
+     "name": "Evelyn Cheong"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Blackeye Students"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9XMy1MEA"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class BKhALT"
+    },
+    {
+     "name": "Class BKhALT"
+    },
+    {
+     "name": "Class Blackeye House"
+    },
+    {
+     "name": "House Blackeye House"
+    },
+    {
+     "name": "RegGrp BKhALT"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Annabel Buchan",
+   "parents": [
+    {
+     "name": "Colin Stuart Buchan"
+    },
+    {
+     "name": "Ailsa Janet Isabella Munro"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YSpEMT"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class KFhROC"
+    },
+    {
+     "name": "Class KFhROC"
+    },
+    {
+     "name": "Class Kingfisher House"
+    },
+    {
+     "name": "House Kingfisher House"
+    },
+    {
+     "name": "Kingfisher Students"
+    },
+    {
+     "name": "RegGrp KFhROC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Philip Campbell",
+   "parents": [
+    {
+     "name": "Audrey Campbell"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaNIA"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9XLs1DAS"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class IBhGF"
+    },
+    {
+     "name": "Class IBhGF"
+    },
+    {
+     "name": "Class Ibis House"
+    },
+    {
+     "name": "House Ibis House"
+    },
+    {
+     "name": "Ibis Students"
+    },
+    {
+     "name": "RegGrp IBhGF"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Chloe Chan",
+   "parents": [
+    {
+     "name": "Koo Guan Chan"
+    },
+    {
+     "name": "Shiau Sing Lim"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZCn1KK"
+    },
+    {
+     "name": "Class Sandpiper House"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "House Sandpiper House"
+    },
+    {
+     "name": "RegGrp SPhJNB"
+    },
+    {
+     "name": "Sandpiper Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Bo Wen Chen",
+   "parents": [
+    {
+     "name": "Shi Jian Chen"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9ZCe1ZG"
+    },
+    {
+     "name": "Class Eagle House"
+    },
+    {
+     "name": "Class EGhDNS"
+    },
+    {
+     "name": "Class EGhDNS"
+    },
+    {
+     "name": "Class ILP/GgLUW"
+    },
+    {
+     "name": "Class ILP/HiLUW"
+    },
+    {
+     "name": "Class ILP/LaSUW"
+    },
+    {
+     "name": "Class ILPAd2ROC"
+    },
+    {
+     "name": "Class ILPCp2JOC"
+    },
+    {
+     "name": "Class ILPDpJAB"
+    },
+    {
+     "name": "Class ILPE2SUW"
+    },
+    {
+     "name": "Class ILPLa2SUW"
+    },
+    {
+     "name": "Class ILPScRIH"
+    },
+    {
+     "name": "Eagle Students"
+    },
+    {
+     "name": "House Eagle House"
+    },
+    {
+     "name": "RegGrp EGhDNS"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Nathaniel Chin",
+   "parents": [
+    {
+     "name": "Kwok Yaw @ John Chin"
+    },
+    {
+     "name": "Catherine Lee"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Argus Students"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class AGhREB"
+    },
+    {
+     "name": "Class AGhREB"
+    },
+    {
+     "name": "Class Argus House"
+    },
+    {
+     "name": "House Argus House"
+    },
+    {
+     "name": "RegGrp AGhREB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Julius Chua",
+   "parents": [
+    {
+     "name": "Alison Ching Chu"
+    },
+    {
+     "name": "Vui Pheng Chua"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Argus Students"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YSpEMT"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class AGhAJC"
+    },
+    {
+     "name": "Class AGhAJC"
+    },
+    {
+     "name": "Class Argus House"
+    },
+    {
+     "name": "House Argus House"
+    },
+    {
+     "name": "RegGrp AGhAJC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Sophie Conway",
+   "parents": [
+    {
+     "name": "Scott Thomas Conway"
+    },
+    {
+     "name": "Yvette Julie Conway"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaGEJ"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class Sandpiper House"
+    },
+    {
+     "name": "Class SPhNLS"
+    },
+    {
+     "name": "Class SPhNLS"
+    },
+    {
+     "name": "House Sandpiper House"
+    },
+    {
+     "name": "RegGrp SPhNLS"
+    },
+    {
+     "name": "Sandpiper Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Sofhea Darussani",
+   "parents": [
+    {
+     "name": "Darussani Haji Abd Manaf"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YMo1AFA"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class FBhBRH"
+    },
+    {
+     "name": "Class FBhBRH"
+    },
+    {
+     "name": "Class Fireback House"
+    },
+    {
+     "name": "Fireback Students"
+    },
+    {
+     "name": "House Fireback House"
+    },
+    {
+     "name": "RegGrp FBhBRH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Stacy David",
+   "parents": [
+    {
+     "name": "Sheba Rani Nakka David"
+    },
+    {
+     "name": "Rajan Rajabalaya"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZCn1KK"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhLUW"
+    },
+    {
+     "name": "Class SLhLUW"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhLUW"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Josh Dullah",
+   "parents": [
+    {
+     "name": "Muhd Dullah Sitai"
+    },
+    {
+     "name": "Salyahrinah Yahya"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YCp1FH"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class Frogmouth House"
+    },
+    {
+     "name": "Frogmouth Students"
+    },
+    {
+     "name": "House Frogmouth House"
+    },
+    {
+     "name": "RegGrp FMhSIA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Yasmin Dzul Fazli",
+   "parents": [
+    {
+     "name": "Julie Yana Rasidi"
+    },
+    {
+     "name": "Dzul Fazli Rosli"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class Sandpiper House"
+    },
+    {
+     "name": "Class SPhNLS"
+    },
+    {
+     "name": "Class SPhNLS"
+    },
+    {
+     "name": "House Sandpiper House"
+    },
+    {
+     "name": "RegGrp SPhNLS"
+    },
+    {
+     "name": "Sandpiper Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Ihya Faisal",
+   "parents": [
+    {
+     "name": "Md Faisal Apong"
+    },
+    {
+     "name": "Hjh Maslina Mohsin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class MNhCR"
+    },
+    {
+     "name": "Class MNhCR"
+    },
+    {
+     "name": "Class Monarch House"
+    },
+    {
+     "name": "House Monarch House"
+    },
+    {
+     "name": "Monarch Students"
+    },
+    {
+     "name": "RegGrp MNhCR"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Freddie Gillam",
+   "parents": [
+    {
+     "name": "Claire Nicole Gillam"
+    },
+    {
+     "name": "Richard Gillam"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class Frogmouth House"
+    },
+    {
+     "name": "Frogmouth Students"
+    },
+    {
+     "name": "House Frogmouth House"
+    },
+    {
+     "name": "RegGrp FMhSIA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Varsha Gopinath Lakshmi",
+   "parents": [
+    {
+     "name": "Lakshmipriya Siddaiah"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class FBhJUA"
+    },
+    {
+     "name": "Class FBhJUA"
+    },
+    {
+     "name": "Class Fireback House"
+    },
+    {
+     "name": "Fireback Students"
+    },
+    {
+     "name": "House Fireback House"
+    },
+    {
+     "name": "RegGrp FBhJUA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Ella Gurmin",
+   "parents": [
+    {
+     "name": "Claire Gurmin"
+    },
+    {
+     "name": "Ian Gurmin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class KFhTRP"
+    },
+    {
+     "name": "Class KFhTRP"
+    },
+    {
+     "name": "Class Kingfisher House"
+    },
+    {
+     "name": "House Kingfisher House"
+    },
+    {
+     "name": "Kingfisher Students"
+    },
+    {
+     "name": "RegGrp KFhTRP"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Fatin Hairin",
+   "parents": [
+    {
+     "name": "Filzah Hj Jawawi"
+    },
+    {
+     "name": "Hairin Jafar"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9E2MID"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class Sandpiper House"
+    },
+    {
+     "name": "Class SPhNLS"
+    },
+    {
+     "name": "Class SPhNLS"
+    },
+    {
+     "name": "House Sandpiper House"
+    },
+    {
+     "name": "RegGrp SPhNLS"
+    },
+    {
+     "name": "Sandpiper Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Ilyas Hakim",
+   "parents": [
+    {
+     "name": "Anas Naomi Haji Harun"
+    },
+    {
+     "name": "Feroz Hakim Hj Ahmad"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YMo1AFA"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class Hawk House"
+    },
+    {
+     "name": "Class HKhJOC"
+    },
+    {
+     "name": "Class HKhJOC"
+    },
+    {
+     "name": "Hawk Students"
+    },
+    {
+     "name": "House Hawk House"
+    },
+    {
+     "name": "RegGrp HKhJOC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Safwan Hambali",
+   "parents": [
+    {
+     "name": "Hasnah Hassan"
+    },
+    {
+     "name": "Hj Abd Rahman Hj Abd Rahman"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class SFhCT"
+    },
+    {
+     "name": "Class SFhCT"
+    },
+    {
+     "name": "Class Swift House"
+    },
+    {
+     "name": "House Swift House"
+    },
+    {
+     "name": "RegGrp SFhCT"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Swift Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Ameerah Hamid",
+   "parents": [
+    {
+     "name": "Abdul Hamid Pg Hj Hashim"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class KFhTRP"
+    },
+    {
+     "name": "Class KFhTRP"
+    },
+    {
+     "name": "Class Kingfisher House"
+    },
+    {
+     "name": "House Kingfisher House"
+    },
+    {
+     "name": "Kingfisher Students"
+    },
+    {
+     "name": "RegGrp KFhTRP"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Hazim Haris",
+   "parents": [
+    {
+     "name": "Abd Haris Pg Haji Shabudin"
+    },
+    {
+     "name": "Nor'ain Pg Hj Mohamad"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Argus Students"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YCp1FH"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class AGhAJC"
+    },
+    {
+     "name": "Class AGhAJC"
+    },
+    {
+     "name": "Class Argus House"
+    },
+    {
+     "name": "House Argus House"
+    },
+    {
+     "name": "RegGrp AGhAJC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Charlotte Harris",
+   "parents": [
+    {
+     "name": "Mandy Joy Harris"
+    },
+    {
+     "name": "Robert Duncan Andrew Harris"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class OPhRIG"
+    },
+    {
+     "name": "Class OPhRIG"
+    },
+    {
+     "name": "Class Osprey House"
+    },
+    {
+     "name": "House Osprey House"
+    },
+    {
+     "name": "Osprey Students"
+    },
+    {
+     "name": "RegGrp OPhRIG"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Oliver Harris",
+   "parents": [
+    {
+     "name": "Justin Harris"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaGEJ"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YFr2PE"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class MNhNES"
+    },
+    {
+     "name": "Class MNhNES"
+    },
+    {
+     "name": "Class Monarch House"
+    },
+    {
+     "name": "House Monarch House"
+    },
+    {
+     "name": "Monarch Students"
+    },
+    {
+     "name": "RegGrp MNhNES"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Isabel Hassall",
+   "parents": [
+    {
+     "name": "Ed Hassall"
+    },
+    {
+     "name": "Sharon Hassall"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaNIA"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class FBhLYH"
+    },
+    {
+     "name": "Class FBhLYH"
+    },
+    {
+     "name": "Class Fireback House"
+    },
+    {
+     "name": "Fireback Students"
+    },
+    {
+     "name": "House Fireback House"
+    },
+    {
+     "name": "RegGrp FBhLYH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Evelyn Hogan",
+   "parents": [
+    {
+     "name": "Anna Louise Hogan"
+    },
+    {
+     "name": "Paul Hogan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZCn1KK"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhPK"
+    },
+    {
+     "name": "Class SLhPK"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhPK"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Han Hor",
+   "parents": [
+    {
+     "name": "Allan Hor Kwan Choon"
+    },
+    {
+     "name": "Wee Peng Lim"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZCn2WEI"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhSUW"
+    },
+    {
+     "name": "Class SLhSUW"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhSUW"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Yang Hsu",
+   "parents": [
+    {
+     "name": "Tsai-Hua Chen"
+    },
+    {
+     "name": "Chien-Chih Hsu"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9ZCe1ZG"
+    },
+    {
+     "name": "Class Hawk House"
+    },
+    {
+     "name": "Class HKhMRD"
+    },
+    {
+     "name": "Class HKhMRD"
+    },
+    {
+     "name": "Class ILP/GgLUW"
+    },
+    {
+     "name": "Class ILP/HiLUW"
+    },
+    {
+     "name": "Class ILP/LaSUW"
+    },
+    {
+     "name": "Class ILPAd2ROC"
+    },
+    {
+     "name": "Class ILPCp2JOC"
+    },
+    {
+     "name": "Class ILPDpJAB"
+    },
+    {
+     "name": "Class ILPE2SUW"
+    },
+    {
+     "name": "Class ILPLa2SUW"
+    },
+    {
+     "name": "Class ILPScRIH"
+    },
+    {
+     "name": "Hawk Students"
+    },
+    {
+     "name": "House Hawk House"
+    },
+    {
+     "name": "RegGrp HKhMRD"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Jonathan Hunter",
+   "parents": [
+    {
+     "name": "Laura Elizabeth Hunter"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YFr2PE"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class IBhGF"
+    },
+    {
+     "name": "Class IBhGF"
+    },
+    {
+     "name": "Class Ibis House"
+    },
+    {
+     "name": "House Ibis House"
+    },
+    {
+     "name": "Ibis Students"
+    },
+    {
+     "name": "RegGrp IBhGF"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Imane Husaini",
+   "parents": [
+    {
+     "name": "Noorafzah Khatijah Dato Paduka Hj Ahmad"
+    },
+    {
+     "name": "Muhammad Husaini Pg Hj Alauddin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class Heron House"
+    },
+    {
+     "name": "Class HRhSH"
+    },
+    {
+     "name": "Class HRhSH"
+    },
+    {
+     "name": "Heron Students"
+    },
+    {
+     "name": "House Heron House"
+    },
+    {
+     "name": "RegGrp HRhSH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Rafe' Hussain",
+   "parents": [
+    {
+     "name": "Norul Hasanah Hj Awg Hassanol Asshari"
+    },
+    {
+     "name": "Hj Mohammed Hussain Pehin Penyurat Awg Hj Ahmad"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class Hawk House"
+    },
+    {
+     "name": "Class HKhPAH"
+    },
+    {
+     "name": "Class HKhPAH"
+    },
+    {
+     "name": "Hawk Students"
+    },
+    {
+     "name": "House Hawk House"
+    },
+    {
+     "name": "RegGrp HKhPAH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Alya Ilham",
+   "parents": [
+    {
+     "name": "Hjh Norzarifah Hj Tuah"
+    },
+    {
+     "name": "Hj Mohammad Ilham Pg Hj Othman"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YMo1AFA"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class Whistler House"
+    },
+    {
+     "name": "Class WLhRID"
+    },
+    {
+     "name": "Class WLhRID"
+    },
+    {
+     "name": "House Whistler House"
+    },
+    {
+     "name": "RegGrp WLhRID"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Whistler Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Shireen Ismawi",
+   "parents": [
+    {
+     "name": "Nor Hafizah Ahmad"
+    },
+    {
+     "name": "Ismawi Hj Md Yusof"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YMo1AFA"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class Whistler House"
+    },
+    {
+     "name": "Class WLhRID"
+    },
+    {
+     "name": "Class WLhRID"
+    },
+    {
+     "name": "House Whistler House"
+    },
+    {
+     "name": "RegGrp WLhRID"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Whistler Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Ahmad Jamsari",
+   "parents": [
+    {
+     "name": "Jamsari Khalid"
+    },
+    {
+     "name": "Nuraizan Mohammad Taha"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZCn1KK"
+    },
+    {
+     "name": "Class FMhSUM"
+    },
+    {
+     "name": "Class FMhSUM"
+    },
+    {
+     "name": "Class Frogmouth House"
+    },
+    {
+     "name": "Frogmouth Students"
+    },
+    {
+     "name": "House Frogmouth House"
+    },
+    {
+     "name": "RegGrp FMhSUM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Fatini Kamsani",
+   "parents": [
+    {
+     "name": "Kamsani Noordin"
+    },
+    {
+     "name": "Hjh Kartini Pg Hj Mohd Tahir"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class OPhCLG"
+    },
+    {
+     "name": "Class OPhCLG"
+    },
+    {
+     "name": "Class Osprey House"
+    },
+    {
+     "name": "House Osprey House"
+    },
+    {
+     "name": "Osprey Students"
+    },
+    {
+     "name": "RegGrp OPhCLG"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Maryam Karim",
+   "parents": [
+    {
+     "name": "Mina Kabi Hosain Kalbi Hosain"
+    },
+    {
+     "name": "Karim Sayed Ali"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YSpEMT"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhSUW"
+    },
+    {
+     "name": "Class SLhSUW"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhSUW"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Hana Khairul",
+   "parents": [
+    {
+     "name": "Khairul Azhar Khairuddin"
+    },
+    {
+     "name": "Mona Aliana Mohd Alimin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class Heron House"
+    },
+    {
+     "name": "Class HRhKIM"
+    },
+    {
+     "name": "Class HRhKIM"
+    },
+    {
+     "name": "Heron Students"
+    },
+    {
+     "name": "House Heron House"
+    },
+    {
+     "name": "RegGrp HRhKIM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Naqibah Khairulazman",
+   "parents": [
+    {
+     "name": "Noor Hadijah Abdul Hadi"
+    },
+    {
+     "name": "Khairulazman Tamin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Blackeye Students"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class BKhLOP"
+    },
+    {
+     "name": "Class BKhLOP"
+    },
+    {
+     "name": "Class Blackeye House"
+    },
+    {
+     "name": "House Blackeye House"
+    },
+    {
+     "name": "RegGrp BKhLOP"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Kiara KhairulRidwan",
+   "parents": [
+    {
+     "name": "Muhd Khairul Ridwan Goh Abdullah"
+    },
+    {
+     "name": "Siti Suzana Hj Zainal"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Blackeye Students"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9XMy1MEA"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class BKhCHW"
+    },
+    {
+     "name": "Class BKhCHW"
+    },
+    {
+     "name": "Class Blackeye House"
+    },
+    {
+     "name": "House Blackeye House"
+    },
+    {
+     "name": "RegGrp BKhCHW"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Asyraf Khalifah",
+   "parents": [
+    {
+     "name": "Hajah Rahayu Dato Paduka Haji Abdul Razak"
+    },
+    {
+     "name": "Hjh Gayah Hj Shafie"
+    },
+    {
+     "name": "Dr Hj Md Khalifah Pg Hj Ismail"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9XLs1DAS"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class MNhASR"
+    },
+    {
+     "name": "Class MNhASR"
+    },
+    {
+     "name": "Class Monarch House"
+    },
+    {
+     "name": "House Monarch House"
+    },
+    {
+     "name": "Monarch Students"
+    },
+    {
+     "name": "RegGrp MNhASR"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Sarah Klock",
+   "parents": [
+    {
+     "name": "Paula Maria Nunes Antunes Fernandes"
+    },
+    {
+     "name": "Kevin Donnelly Klock"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YSpEMT"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class KFhROC"
+    },
+    {
+     "name": "Class KFhROC"
+    },
+    {
+     "name": "Class Kingfisher House"
+    },
+    {
+     "name": "House Kingfisher House"
+    },
+    {
+     "name": "Kingfisher Students"
+    },
+    {
+     "name": "RegGrp KFhROC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Tien Long Lai",
+   "parents": [
+    {
+     "name": "Kong Yik Lai"
+    },
+    {
+     "name": "Lee Hua Liew"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9E2LYH"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9XLs1DAS"
+    },
+    {
+     "name": "Class 9YCp1FH"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class MNhNES"
+    },
+    {
+     "name": "Class MNhNES"
+    },
+    {
+     "name": "Class Monarch House"
+    },
+    {
+     "name": "House Monarch House"
+    },
+    {
+     "name": "Monarch Students"
+    },
+    {
+     "name": "RegGrp MNhNES"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "David Lee",
+   "parents": [
+    {
+     "name": "Michael John Lee"
+    },
+    {
+     "name": "Yin Hong Lim"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZCn1KK"
+    },
+    {
+     "name": "Class FMhSUM"
+    },
+    {
+     "name": "Class FMhSUM"
+    },
+    {
+     "name": "Class Frogmouth House"
+    },
+    {
+     "name": "Frogmouth Students"
+    },
+    {
+     "name": "House Frogmouth House"
+    },
+    {
+     "name": "RegGrp FMhSUM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Sheryl Lee",
+   "parents": [
+    {
+     "name": "Han Leong Lee"
+    },
+    {
+     "name": "Shu Fen Wu"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZCn2WEI"
+    },
+    {
+     "name": "Class Sandpiper House"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "House Sandpiper House"
+    },
+    {
+     "name": "RegGrp SPhJNB"
+    },
+    {
+     "name": "Sandpiper Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Elizabeth Legg",
+   "parents": [
+    {
+     "name": "Matthew Philip Legg"
+    },
+    {
+     "name": "Miriam Christine Legg"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaNIA"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class FBhJUA"
+    },
+    {
+     "name": "Class FBhJUA"
+    },
+    {
+     "name": "Class Fireback House"
+    },
+    {
+     "name": "Fireback Students"
+    },
+    {
+     "name": "House Fireback House"
+    },
+    {
+     "name": "RegGrp FBhJUA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Martin Lieskovsky",
+   "parents": [
+    {
+     "name": "Martin Lieskovsky"
+    },
+    {
+     "name": "Andrea Paninarova"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YFr2PE"
+    },
+    {
+     "name": "Class 9ZCn1KK"
+    },
+    {
+     "name": "Class Eagle House"
+    },
+    {
+     "name": "Class EGhDNS"
+    },
+    {
+     "name": "Class EGhDNS"
+    },
+    {
+     "name": "Eagle Students"
+    },
+    {
+     "name": "House Eagle House"
+    },
+    {
+     "name": "RegGrp EGhDNS"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Shan Ting Liew",
+   "parents": [
+    {
+     "name": "Pai Chin Chan"
+    },
+    {
+     "name": "Yu Wen Liew"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZCn2WEI"
+    },
+    {
+     "name": "Class Sandpiper House"
+    },
+    {
+     "name": "Class SPhNLS"
+    },
+    {
+     "name": "Class SPhNLS"
+    },
+    {
+     "name": "House Sandpiper House"
+    },
+    {
+     "name": "RegGrp SPhNLS"
+    },
+    {
+     "name": "Sandpiper Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Amei Lim",
+   "parents": [
+    {
+     "name": "Tiong Hoo Lim"
+    },
+    {
+     "name": "Memeriahneh Loo"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YCp1FH"
+    },
+    {
+     "name": "Class 9ZCn1KK"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhPK"
+    },
+    {
+     "name": "Class SLhPK"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhPK"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Ee Jin Lim",
+   "parents": [
+    {
+     "name": "Cheng Hoo Lim"
+    },
+    {
+     "name": "Yeh Li Lim"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhCA"
+    },
+    {
+     "name": "Class BBhCA"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhCA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Iain Lim",
+   "parents": [
+    {
+     "name": "Kian Meang Lim"
+    },
+    {
+     "name": "Sheau Yng Wong"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhSCC"
+    },
+    {
+     "name": "Class BBhSCC"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhSCC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Joshua Lim",
+   "parents": [
+    {
+     "name": "Charng Sheng Lim"
+    },
+    {
+     "name": "Alice Sew Chin Ng"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YMo1AFA"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class SFhSTM"
+    },
+    {
+     "name": "Class SFhSTM"
+    },
+    {
+     "name": "Class Swift House"
+    },
+    {
+     "name": "House Swift House"
+    },
+    {
+     "name": "RegGrp SFhSTM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Swift Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Jun Lim",
+   "parents": [
+    {
+     "name": "Lim Jin Wei"
+    },
+    {
+     "name": "Sabrina Wong"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZCn2WEI"
+    },
+    {
+     "name": "Class MNhNES"
+    },
+    {
+     "name": "Class MNhNES"
+    },
+    {
+     "name": "Class Monarch House"
+    },
+    {
+     "name": "House Monarch House"
+    },
+    {
+     "name": "Monarch Students"
+    },
+    {
+     "name": "RegGrp MNhNES"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Wesley Lim",
+   "parents": [
+    {
+     "name": "Desmond Lim Yew Yee"
+    },
+    {
+     "name": "Lindawati Tan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZCn2WEI"
+    },
+    {
+     "name": "Class SFhCT"
+    },
+    {
+     "name": "Class SFhCT"
+    },
+    {
+     "name": "Class Swift House"
+    },
+    {
+     "name": "House Swift House"
+    },
+    {
+     "name": "RegGrp SFhCT"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Swift Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Bruce Liu",
+   "parents": [
+    {
+     "name": "Li Bai"
+    },
+    {
+     "name": "Qiong Liu"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9ZCe1ZG"
+    },
+    {
+     "name": "Class Eagle House"
+    },
+    {
+     "name": "Class EGhDNS"
+    },
+    {
+     "name": "Class EGhDNS"
+    },
+    {
+     "name": "Class ILP/GgLUW"
+    },
+    {
+     "name": "Class ILP/HiLUW"
+    },
+    {
+     "name": "Class ILP/LaSUW"
+    },
+    {
+     "name": "Class ILPAd2ROC"
+    },
+    {
+     "name": "Class ILPCp2JOC"
+    },
+    {
+     "name": "Class ILPDpJAB"
+    },
+    {
+     "name": "Class ILPE2SUW"
+    },
+    {
+     "name": "Class ILPLa2SUW"
+    },
+    {
+     "name": "Class ILPScRIH"
+    },
+    {
+     "name": "Eagle Students"
+    },
+    {
+     "name": "House Eagle House"
+    },
+    {
+     "name": "RegGrp EGhDNS"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Cecile Liu",
+   "parents": [
+    {
+     "name": "Ping Gao"
+    },
+    {
+     "name": "Quan Liu"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9E2MID"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9X/La1LYH"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZCe1ZG"
+    },
+    {
+     "name": "Class OPhCLG"
+    },
+    {
+     "name": "Class OPhCLG"
+    },
+    {
+     "name": "Class Osprey House"
+    },
+    {
+     "name": "House Osprey House"
+    },
+    {
+     "name": "Osprey Students"
+    },
+    {
+     "name": "RegGrp OPhCLG"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Oscar Liu",
+   "parents": [
+    {
+     "name": "Jiayi Mao"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9E2MID"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9X/La1LYH"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZCe1ZG"
+    },
+    {
+     "name": "Class Eagle House"
+    },
+    {
+     "name": "Class EGhEDH"
+    },
+    {
+     "name": "Class EGhEDH"
+    },
+    {
+     "name": "Eagle Students"
+    },
+    {
+     "name": "House Eagle House"
+    },
+    {
+     "name": "RegGrp EGhEDH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Syifa Mahmud",
+   "parents": [
+    {
+     "name": "Lilly Suzana Haji Shamsu"
+    },
+    {
+     "name": "Haji Mahmud Hj Mohamed"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhSUW"
+    },
+    {
+     "name": "Class SLhSUW"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhSUW"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Arnaz Mallick",
+   "parents": [
+    {
+     "name": "Farid Inam Mallick"
+    },
+    {
+     "name": "Nagma Mohamed Mallick"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class Whistler House"
+    },
+    {
+     "name": "Class WLhBEW"
+    },
+    {
+     "name": "Class WLhBEW"
+    },
+    {
+     "name": "House Whistler House"
+    },
+    {
+     "name": "RegGrp WLhBEW"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Whistler Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Scott Manderson",
+   "parents": [
+    {
+     "name": "Joseph Cummings Manderson"
+    },
+    {
+     "name": "Lynne Manderson"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YSp2DAB"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class IBhGF"
+    },
+    {
+     "name": "Class IBhGF"
+    },
+    {
+     "name": "Class Ibis House"
+    },
+    {
+     "name": "House Ibis House"
+    },
+    {
+     "name": "Ibis Students"
+    },
+    {
+     "name": "RegGrp IBhGF"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Eirreqa Marzuke",
+   "parents": [
+    {
+     "name": "Marzuke Hj Mohsin"
+    },
+    {
+     "name": "Hjh Hajizah Metayer"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class Heron House"
+    },
+    {
+     "name": "Class HRhKIM"
+    },
+    {
+     "name": "Class HRhKIM"
+    },
+    {
+     "name": "Heron Students"
+    },
+    {
+     "name": "House Heron House"
+    },
+    {
+     "name": "RegGrp HRhKIM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Nadiyah Masri",
+   "parents": [
+    {
+     "name": "Masri Hj Daud"
+    },
+    {
+     "name": "Hjh Anis Faudzulani Hj Dzulkiflee"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaGEJ"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class Whistler House"
+    },
+    {
+     "name": "Class WLhBEW"
+    },
+    {
+     "name": "Class WLhBEW"
+    },
+    {
+     "name": "House Whistler House"
+    },
+    {
+     "name": "RegGrp WLhBEW"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Whistler Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Mayank Mathew",
+   "parents": [
+    {
+     "name": "Mathew Alexander"
+    },
+    {
+     "name": "Sunithi Elizabeth Mani"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaGEJ"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class MNhCR"
+    },
+    {
+     "name": "Class MNhCR"
+    },
+    {
+     "name": "Class Monarch House"
+    },
+    {
+     "name": "House Monarch House"
+    },
+    {
+     "name": "Monarch Students"
+    },
+    {
+     "name": "RegGrp MNhCR"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Jack McCarthy",
+   "parents": [
+    {
+     "name": "Donncha McCarthy"
+    },
+    {
+     "name": "Donncha McCarthy"
+    },
+    {
+     "name": "Donncha McCarthy"
+    },
+    {
+     "name": "Maria Taib McCarthy"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaNIA"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XMy1MEA"
+    },
+    {
+     "name": "Class 9YCp1FH"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class SFhPHM"
+    },
+    {
+     "name": "Class SFhPHM"
+    },
+    {
+     "name": "Class Swift House"
+    },
+    {
+     "name": "House Swift House"
+    },
+    {
+     "name": "RegGrp SFhPHM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Swift Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Mikail Mitha",
+   "parents": [
+    {
+     "name": "Shahid Mitha"
+    },
+    {
+     "name": "Shahnaz Mitha"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YSp2DAB"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class Hawk House"
+    },
+    {
+     "name": "Class HKhMRD"
+    },
+    {
+     "name": "Class HKhMRD"
+    },
+    {
+     "name": "Hawk Students"
+    },
+    {
+     "name": "House Hawk House"
+    },
+    {
+     "name": "RegGrp HKhMRD"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Hadif Mohamad",
+   "parents": [
+    {
+     "name": "Hjh Ramlah Hj Bujang"
+    },
+    {
+     "name": "Hj Sheikh Mohamad Hj Sheikh Said"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhSCC"
+    },
+    {
+     "name": "Class BBhSCC"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhSCC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Aneeza Mohammad Shamsul",
+   "parents": [
+    {
+     "name": "Mohammad Shamsul Hj Umar"
+    },
+    {
+     "name": "Suzana Mohamad"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class FBhJUA"
+    },
+    {
+     "name": "Class FBhJUA"
+    },
+    {
+     "name": "Class Fireback House"
+    },
+    {
+     "name": "Fireback Students"
+    },
+    {
+     "name": "House Fireback House"
+    },
+    {
+     "name": "RegGrp FBhJUA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Fawwaz Mohd Hazrizal",
+   "parents": [
+    {
+     "name": "Mohd Hazrizal Abd Aziz"
+    },
+    {
+     "name": "Nurhayati Hasim"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YCp1FH"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class SFhPHM"
+    },
+    {
+     "name": "Class SFhPHM"
+    },
+    {
+     "name": "Class Swift House"
+    },
+    {
+     "name": "House Swift House"
+    },
+    {
+     "name": "RegGrp SFhPHM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Swift Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Oscar Morley",
+   "parents": [
+    {
+     "name": "Annabel Morley"
+    },
+    {
+     "name": "Dominic Morley"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class SFhSTM"
+    },
+    {
+     "name": "Class SFhSTM"
+    },
+    {
+     "name": "Class Swift House"
+    },
+    {
+     "name": "House Swift House"
+    },
+    {
+     "name": "RegGrp SFhSTM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Swift Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Muz'im Muazzam",
+   "parents": [
+    {
+     "name": "Muazzam Dato Paduka Hj Abd Mokti"
+    },
+    {
+     "name": "Zeti Reza Hj Mohd Amin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhJHA"
+    },
+    {
+     "name": "Class BBhJHA"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhJHA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Naca Musib",
+   "parents": [
+    {
+     "name": "Musib Hj Md. Yusuf"
+    },
+    {
+     "name": "Dr Norsuhazenah Pg Suhaili"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaNIA"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YFr2PE"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class SFhSTM"
+    },
+    {
+     "name": "Class SFhSTM"
+    },
+    {
+     "name": "Class Swift House"
+    },
+    {
+     "name": "House Swift House"
+    },
+    {
+     "name": "RegGrp SFhSTM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Swift Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Ammar Nizam",
+   "parents": [
+    {
+     "name": "Mona Yati Dato Hj Kassim"
+    },
+    {
+     "name": "Hj Ahmad Nizam Pehin Dato Hj Abd Wahab"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class Frogmouth House"
+    },
+    {
+     "name": "Frogmouth Students"
+    },
+    {
+     "name": "House Frogmouth House"
+    },
+    {
+     "name": "RegGrp FMhSIA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Daniel Norris",
+   "parents": [
+    {
+     "name": "Guy Roderick Norris"
+    },
+    {
+     "name": "Ma. Analiza Norris"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YSpEMT"
+    },
+    {
+     "name": "Class 9ZCn2WEI"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhCA"
+    },
+    {
+     "name": "Class BBhCA"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhCA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Tise Ogundele",
+   "parents": [
+    {
+     "name": "Omovrigho Veronica Ogundele"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class IBhJRB"
+    },
+    {
+     "name": "Class IBhJRB"
+    },
+    {
+     "name": "Class Ibis House"
+    },
+    {
+     "name": "House Ibis House"
+    },
+    {
+     "name": "Ibis Students"
+    },
+    {
+     "name": "RegGrp IBhJRB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Shanzeh Omar",
+   "parents": [
+    {
+     "name": "Omar Saad Mirza Muhammad"
+    },
+    {
+     "name": "Ayesha Omar"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class Heron House"
+    },
+    {
+     "name": "Class HRhSH"
+    },
+    {
+     "name": "Class HRhSH"
+    },
+    {
+     "name": "Heron Students"
+    },
+    {
+     "name": "House Heron House"
+    },
+    {
+     "name": "RegGrp HRhSH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Meghna Patnaik",
+   "parents": [
+    {
+     "name": "Ravi Sekhar Patnaik"
+    },
+    {
+     "name": "Rekha Patnaik"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Blackeye Students"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class BKhLOP"
+    },
+    {
+     "name": "Class BKhLOP"
+    },
+    {
+     "name": "Class Blackeye House"
+    },
+    {
+     "name": "House Blackeye House"
+    },
+    {
+     "name": "RegGrp BKhLOP"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Anna Pei",
+   "parents": [
+    {
+     "name": "Yuan Pei"
+    },
+    {
+     "name": "Maonv Zhan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9ZCe1ZG"
+    },
+    {
+     "name": "Class ILP/GgLUW"
+    },
+    {
+     "name": "Class ILP/HiLUW"
+    },
+    {
+     "name": "Class ILP/LaSUW"
+    },
+    {
+     "name": "Class ILPAd2ROC"
+    },
+    {
+     "name": "Class ILPCp2JOC"
+    },
+    {
+     "name": "Class ILPDpJAB"
+    },
+    {
+     "name": "Class ILPE2SUW"
+    },
+    {
+     "name": "Class ILPLa2SUW"
+    },
+    {
+     "name": "Class ILPScRIH"
+    },
+    {
+     "name": "Class OPhRIG"
+    },
+    {
+     "name": "Class OPhRIG"
+    },
+    {
+     "name": "Class Osprey House"
+    },
+    {
+     "name": "House Osprey House"
+    },
+    {
+     "name": "Osprey Students"
+    },
+    {
+     "name": "RegGrp OPhRIG"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Hariz Rahman",
+   "parents": [
+    {
+     "name": "Hjh Rosita Hj Hassan"
+    },
+    {
+     "name": "Hj Abd Rahman Hj Jaafar"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class FMhSIA"
+    },
+    {
+     "name": "Class Frogmouth House"
+    },
+    {
+     "name": "Frogmouth Students"
+    },
+    {
+     "name": "House Frogmouth House"
+    },
+    {
+     "name": "RegGrp FMhSIA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Sabrina Rahman",
+   "parents": [
+    {
+     "name": "Jonaidah Ahmad"
+    },
+    {
+     "name": "Col (L) Abd Rahman Hj Bakar"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9E2LYH"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YMo1AFA"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class Whistler House"
+    },
+    {
+     "name": "Class WLhMJO"
+    },
+    {
+     "name": "Class WLhMJO"
+    },
+    {
+     "name": "House Whistler House"
+    },
+    {
+     "name": "RegGrp WLhMJO"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Whistler Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Diren Rai",
+   "parents": [
+    {
+     "name": "Dharma Sindhu Rai"
+    },
+    {
+     "name": "Pandari Bai Rai"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Argus Students"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9XLs1DAS"
+    },
+    {
+     "name": "Class 9YFr2PE"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class AGhAJC"
+    },
+    {
+     "name": "Class AGhAJC"
+    },
+    {
+     "name": "Class Argus House"
+    },
+    {
+     "name": "House Argus House"
+    },
+    {
+     "name": "RegGrp AGhAJC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Sahana Rajinikanth",
+   "parents": [
+    {
+     "name": "Rajinikanth Rajagopal"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaGEJ"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class Whistler House"
+    },
+    {
+     "name": "Class WLhMJO"
+    },
+    {
+     "name": "Class WLhMJO"
+    },
+    {
+     "name": "House Whistler House"
+    },
+    {
+     "name": "RegGrp WLhMJO"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Whistler Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Hamza Rana",
+   "parents": [
+    {
+     "name": "Aftab Ahmed Rana"
+    },
+    {
+     "name": "Rukhshanda Rana"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YSpEMT"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class MNhASR"
+    },
+    {
+     "name": "Class MNhASR"
+    },
+    {
+     "name": "Class Monarch House"
+    },
+    {
+     "name": "House Monarch House"
+    },
+    {
+     "name": "Monarch Students"
+    },
+    {
+     "name": "RegGrp MNhASR"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Taha Rana",
+   "parents": [
+    {
+     "name": "Fareeha Aamir Rana"
+    },
+    {
+     "name": "Muhammad Aamir Rana"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YFr2PE"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhJHA"
+    },
+    {
+     "name": "Class BBhJHA"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhJHA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Zara Raymin",
+   "parents": [
+    {
+     "name": "Mariana Omar"
+    },
+    {
+     "name": "Mohammad Raymin Othman"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhLUW"
+    },
+    {
+     "name": "Class SLhLUW"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhLUW"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Billy Ren",
+   "parents": [
+    {
+     "name": "Lai Cheng Ren"
+    },
+    {
+     "name": "Jing Yang"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9ZCe1ZG"
+    },
+    {
+     "name": "Class Eagle House"
+    },
+    {
+     "name": "Class EGhEDH"
+    },
+    {
+     "name": "Class EGhEDH"
+    },
+    {
+     "name": "Class ILP/GgLUW"
+    },
+    {
+     "name": "Class ILP/HiLUW"
+    },
+    {
+     "name": "Class ILP/LaSUW"
+    },
+    {
+     "name": "Class ILPAd2ROC"
+    },
+    {
+     "name": "Class ILPCp2JOC"
+    },
+    {
+     "name": "Class ILPDpJAB"
+    },
+    {
+     "name": "Class ILPE2SUW"
+    },
+    {
+     "name": "Class ILPLa2SUW"
+    },
+    {
+     "name": "Class ILPScRIH"
+    },
+    {
+     "name": "Eagle Students"
+    },
+    {
+     "name": "House Eagle House"
+    },
+    {
+     "name": "RegGrp EGhEDH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Advaith Renjit",
+   "parents": [
+    {
+     "name": "Renjit Ambika Gopalakrishnan"
+    },
+    {
+     "name": "Shyja Krishnan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class SFhCT"
+    },
+    {
+     "name": "Class SFhCT"
+    },
+    {
+     "name": "Class Swift House"
+    },
+    {
+     "name": "House Swift House"
+    },
+    {
+     "name": "RegGrp SFhCT"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Swift Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Amirah Riza",
+   "parents": [
+    {
+     "name": "Md. Riza Dato Paduka Hj Md. Yunos"
+    },
+    {
+     "name": "Zubaidah Hj Mahmud"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhLUW"
+    },
+    {
+     "name": "Class SLhLUW"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhLUW"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Raiyan Rizal",
+   "parents": [
+    {
+     "name": "Saiful Rizal Marali"
+    },
+    {
+     "name": "Halimahtun Saadiah Pehin Dato Sulaiman"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class FMhSUM"
+    },
+    {
+     "name": "Class FMhSUM"
+    },
+    {
+     "name": "Class Frogmouth House"
+    },
+    {
+     "name": "Frogmouth Students"
+    },
+    {
+     "name": "House Frogmouth House"
+    },
+    {
+     "name": "RegGrp FMhSUM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Katrina Roberts",
+   "parents": [
+    {
+     "name": "Marichu Roberts"
+    },
+    {
+     "name": "Nathan Lee Roberts"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YFr2PE"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class OPhCLG"
+    },
+    {
+     "name": "Class OPhCLG"
+    },
+    {
+     "name": "Class Osprey House"
+    },
+    {
+     "name": "House Osprey House"
+    },
+    {
+     "name": "Osprey Students"
+    },
+    {
+     "name": "RegGrp OPhCLG"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Leo Romagnolo",
+   "parents": [
+    {
+     "name": "Franco Romagnolo"
+    },
+    {
+     "name": "Elisa Verolotti"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaGEJ"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YSp2DAB"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class IBhGF"
+    },
+    {
+     "name": "Class IBhGF"
+    },
+    {
+     "name": "Class Ibis House"
+    },
+    {
+     "name": "House Ibis House"
+    },
+    {
+     "name": "Ibis Students"
+    },
+    {
+     "name": "RegGrp IBhGF"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Widad Sahraini",
+   "parents": [
+    {
+     "name": "Hjh Ida Fariani Pg Hj Kamaluddin"
+    },
+    {
+     "name": "Hj Mohamad Sahraini Sabtu"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class KFhTRP"
+    },
+    {
+     "name": "Class KFhTRP"
+    },
+    {
+     "name": "Class Kingfisher House"
+    },
+    {
+     "name": "House Kingfisher House"
+    },
+    {
+     "name": "Kingfisher Students"
+    },
+    {
+     "name": "RegGrp KFhTRP"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Hafiy Saiful Bahrin",
+   "parents": [
+    {
+     "name": "Saiful Bahrin Hj Md Jenin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9E2LYH"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class Eagle House"
+    },
+    {
+     "name": "Class EGhEDH"
+    },
+    {
+     "name": "Class EGhEDH"
+    },
+    {
+     "name": "Eagle Students"
+    },
+    {
+     "name": "House Eagle House"
+    },
+    {
+     "name": "RegGrp EGhEDH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Hazman Saini",
+   "parents": [
+    {
+     "name": "Norsham Hj Abd Razak"
+    },
+    {
+     "name": "Hj Saini Pg Hj Tejudin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9E2LYH"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhCA"
+    },
+    {
+     "name": "Class BBhCA"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhCA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Iman Sajid",
+   "parents": [
+    {
+     "name": "Sajid Adhi Raja"
+    },
+    {
+     "name": "Raheena Mukkolakkal"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YSpEMT"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class Whistler House"
+    },
+    {
+     "name": "Class WLhBEW"
+    },
+    {
+     "name": "Class WLhBEW"
+    },
+    {
+     "name": "House Whistler House"
+    },
+    {
+     "name": "RegGrp WLhBEW"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Whistler Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Raiyan Sallehin",
+   "parents": [
+    {
+     "name": "Mas Irwanie Habsa Dato Paduka Hj Abd Wahab"
+    },
+    {
+     "name": "Mohamad Sallehin Hj Mohd Taib"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YMo1AFA"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhJHA"
+    },
+    {
+     "name": "Class BBhJHA"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhJHA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Theo Sandow",
+   "parents": [
+    {
+     "name": "Barnaby Sandow"
+    },
+    {
+     "name": "Gwendoline Sandow"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Argus Students"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YSp2DAB"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class AGhWIK"
+    },
+    {
+     "name": "Class AGhWIK"
+    },
+    {
+     "name": "Class Argus House"
+    },
+    {
+     "name": "House Argus House"
+    },
+    {
+     "name": "RegGrp AGhWIK"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Megan Sargent",
+   "parents": [
+    {
+     "name": "Beverly Sargent"
+    },
+    {
+     "name": "Dave Sargent"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Blackeye Students"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YSpEMT"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class BKhCHW"
+    },
+    {
+     "name": "Class BKhCHW"
+    },
+    {
+     "name": "Class Blackeye House"
+    },
+    {
+     "name": "House Blackeye House"
+    },
+    {
+     "name": "RegGrp BKhCHW"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Torrie Sarif",
+   "parents": [
+    {
+     "name": "Hjh Dyg Suzana Hj Awang Adenan"
+    },
+    {
+     "name": "Hj Mohamad Sarif Pudin Matserudin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaGEJ"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhLUW"
+    },
+    {
+     "name": "Class SLhLUW"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhLUW"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Dylan Setiana",
+   "parents": [
+    {
+     "name": "Rinike Kusuma"
+    },
+    {
+     "name": "Agus Setiana"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Argus Students"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class AGhREB"
+    },
+    {
+     "name": "Class AGhREB"
+    },
+    {
+     "name": "Class Argus House"
+    },
+    {
+     "name": "House Argus House"
+    },
+    {
+     "name": "RegGrp AGhREB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Serene Shaaban",
+   "parents": [
+    {
+     "name": "Lamya Hassan"
+    },
+    {
+     "name": "Essam Shaaban"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaGEJ"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class Sandpiper House"
+    },
+    {
+     "name": "Class SPhNLS"
+    },
+    {
+     "name": "Class SPhNLS"
+    },
+    {
+     "name": "House Sandpiper House"
+    },
+    {
+     "name": "RegGrp SPhNLS"
+    },
+    {
+     "name": "Sandpiper Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Najwa Shahadan",
+   "parents": [
+    {
+     "name": "Hj Shahadan Abdol"
+    },
+    {
+     "name": "Siti Marjiana Hj Awg Mohammad"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class Whistler House"
+    },
+    {
+     "name": "Class WLhRID"
+    },
+    {
+     "name": "Class WLhRID"
+    },
+    {
+     "name": "House Whistler House"
+    },
+    {
+     "name": "RegGrp WLhRID"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Whistler Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Aryshah Shahminan",
+   "parents": [
+    {
+     "name": "Sri Anne Masri"
+    },
+    {
+     "name": "PSI Pg Hj Ismail Shahminan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class Whistler House"
+    },
+    {
+     "name": "Class WLhBEW"
+    },
+    {
+     "name": "Class WLhBEW"
+    },
+    {
+     "name": "House Whistler House"
+    },
+    {
+     "name": "RegGrp WLhBEW"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Whistler Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Naqiyyah Shahrildin",
+   "parents": [
+    {
+     "name": "Najwa Hj Abdul Majid"
+    },
+    {
+     "name": "Shahrildin Pehin Dato Hj Jaya"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class Heron House"
+    },
+    {
+     "name": "Class HRhROB"
+    },
+    {
+     "name": "Class HRhROB"
+    },
+    {
+     "name": "Heron Students"
+    },
+    {
+     "name": "House Heron House"
+    },
+    {
+     "name": "RegGrp HRhROB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Roshan Shamhary",
+   "parents": [
+    {
+     "name": "Shamhary DP Pg Hj Mustapha"
+    },
+    {
+     "name": "Mahayun Mohd Taha"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9AMaNIA"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhJHA"
+    },
+    {
+     "name": "Class BBhJHA"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhJHA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Benjamin Sheehan",
+   "parents": [
+    {
+     "name": "Nicholas Edward Sheehan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9GBi4JLC"
+    },
+    {
+     "name": "Class 9GChCAG"
+    },
+    {
+     "name": "Class 9GGgAWM"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9GHiCHD"
+    },
+    {
+     "name": "Class 9GPhMKC"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class 92EEnSLB"
+    },
+    {
+     "name": "Class Hawk House"
+    },
+    {
+     "name": "Class HKhPAH"
+    },
+    {
+     "name": "Class HKhPAH"
+    },
+    {
+     "name": "Hawk Students"
+    },
+    {
+     "name": "House Hawk House"
+    },
+    {
+     "name": "RegGrp HKhPAH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Umar Sheikh",
+   "parents": [
+    {
+     "name": "Sheikh Naeem Shafqat"
+    },
+    {
+     "name": "Sadia Afsheen Sheikh"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class Hawk House"
+    },
+    {
+     "name": "Class HKhJOC"
+    },
+    {
+     "name": "Class HKhJOC"
+    },
+    {
+     "name": "Hawk Students"
+    },
+    {
+     "name": "House Hawk House"
+    },
+    {
+     "name": "RegGrp HKhJOC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Melissa Sim",
+   "parents": [
+    {
+     "name": "Irene Hui Ching Koh"
+    },
+    {
+     "name": "Brian Mathew Yeok Soon Sim"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaGEJ"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class Sandpiper House"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "House Sandpiper House"
+    },
+    {
+     "name": "RegGrp SPhJNB"
+    },
+    {
+     "name": "Sandpiper Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Timo Stapel",
+   "parents": [
+    {
+     "name": "Monique Oink"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YSp2DAB"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class Eagle House"
+    },
+    {
+     "name": "Class EGhEDH"
+    },
+    {
+     "name": "Class EGhEDH"
+    },
+    {
+     "name": "Eagle Students"
+    },
+    {
+     "name": "House Eagle House"
+    },
+    {
+     "name": "RegGrp EGhEDH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Aine Suhaini",
+   "parents": [
+    {
+     "name": "Richard John Clarkson"
+    },
+    {
+     "name": "Sakina Haji Mohammad Nor"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Blackeye Students"
+    },
+    {
+     "name": "Class 9AMaNIA"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9E2LYH"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9XLs1DAS"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class BKhLOP"
+    },
+    {
+     "name": "Class BKhLOP"
+    },
+    {
+     "name": "Class Blackeye House"
+    },
+    {
+     "name": "House Blackeye House"
+    },
+    {
+     "name": "RegGrp BKhLOP"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Jia Xin Tan",
+   "parents": [
+    {
+     "name": "Mee Moon Sim"
+    },
+    {
+     "name": "Wee Ying Tan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YMo2MJO"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class Heron House"
+    },
+    {
+     "name": "Class HRhROB"
+    },
+    {
+     "name": "Class HRhROB"
+    },
+    {
+     "name": "Heron Students"
+    },
+    {
+     "name": "House Heron House"
+    },
+    {
+     "name": "RegGrp HRhROB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Vanessa Tan",
+   "parents": [
+    {
+     "name": "Edelyn Sanchez"
+    },
+    {
+     "name": "Raymund Hong Chye Tan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Blackeye Students"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class BKhCHW"
+    },
+    {
+     "name": "Class BKhCHW"
+    },
+    {
+     "name": "Class Blackeye House"
+    },
+    {
+     "name": "House Blackeye House"
+    },
+    {
+     "name": "RegGrp BKhCHW"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Skye Tang",
+   "parents": [
+    {
+     "name": "Mei Fun Choo"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9E2MID"
+    },
+    {
+     "name": "Class 9GGm4bJOC"
+    },
+    {
+     "name": "Class 9GGmDNS/JC"
+    },
+    {
+     "name": "Class 9PPe4DNS"
+    },
+    {
+     "name": "Class 9X/La1LYH"
+    },
+    {
+     "name": "Class 9YCp1FH"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class Hawk House"
+    },
+    {
+     "name": "Class HKhMRD"
+    },
+    {
+     "name": "Class HKhMRD"
+    },
+    {
+     "name": "Hawk Students"
+    },
+    {
+     "name": "House Hawk House"
+    },
+    {
+     "name": "RegGrp HKhMRD"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Tania Teo",
+   "parents": [
+    {
+     "name": "Yick Wei Ng"
+    },
+    {
+     "name": "Boon Huat Teo"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9DEnHAB"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZCn2WEI"
+    },
+    {
+     "name": "Class FBhJUA"
+    },
+    {
+     "name": "Class FBhJUA"
+    },
+    {
+     "name": "Class Fireback House"
+    },
+    {
+     "name": "Fireback Students"
+    },
+    {
+     "name": "House Fireback House"
+    },
+    {
+     "name": "RegGrp FBhJUA"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Anna Tomalla",
+   "parents": [
+    {
+     "name": "Klaus Tomalla"
+    },
+    {
+     "name": "Taylo Tomalla"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9E2LYH"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZDp1TIC"
+    },
+    {
+     "name": "Class FBhLYH"
+    },
+    {
+     "name": "Class FBhLYH"
+    },
+    {
+     "name": "Class Fireback House"
+    },
+    {
+     "name": "Fireback Students"
+    },
+    {
+     "name": "House Fireback House"
+    },
+    {
+     "name": "RegGrp FBhLYH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Hibiki Tunku Farazil",
+   "parents": [
+    {
+     "name": "Yoshie Ito"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Argus Students"
+    },
+    {
+     "name": "Class 9AMaNIA"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9E2LYH"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9XLs1DAS"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class AGhREB"
+    },
+    {
+     "name": "Class AGhREB"
+    },
+    {
+     "name": "Class Argus House"
+    },
+    {
+     "name": "House Argus House"
+    },
+    {
+     "name": "RegGrp AGhREB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Hannah Turner",
+   "parents": [
+    {
+     "name": "Tash Turner"
+    },
+    {
+     "name": "William L Turner"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9RBiJLC"
+    },
+    {
+     "name": "Class 9RChJLC"
+    },
+    {
+     "name": "Class 9RGgLUW"
+    },
+    {
+     "name": "Class 9RHiCHL"
+    },
+    {
+     "name": "Class 9RPhPAH"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YSpEMT"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class FBhLYH"
+    },
+    {
+     "name": "Class FBhLYH"
+    },
+    {
+     "name": "Class Fireback House"
+    },
+    {
+     "name": "Fireback Students"
+    },
+    {
+     "name": "House Fireback House"
+    },
+    {
+     "name": "RegGrp FBhLYH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Yahya Husain Ul Hasan",
+   "parents": [
+    {
+     "name": "Khathija Hasan"
+    },
+    {
+     "name": "Uwais Riaz Ul Hasan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Barbet Students"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9REnCHH"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class Barbet House"
+    },
+    {
+     "name": "Class BBhSCC"
+    },
+    {
+     "name": "Class BBhSCC"
+    },
+    {
+     "name": "House Barbet House"
+    },
+    {
+     "name": "RegGrp BBhSCC"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Mohammed Usman-Sarki",
+   "parents": [
+    {
+     "name": "Ismail Usman"
+    },
+    {
+     "name": "Rakiya Usman-Sarki"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YFr2PE"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class IBhJRB"
+    },
+    {
+     "name": "Class IBhJRB"
+    },
+    {
+     "name": "Class Ibis House"
+    },
+    {
+     "name": "House Ibis House"
+    },
+    {
+     "name": "Ibis Students"
+    },
+    {
+     "name": "RegGrp IBhJRB"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Laras Utami",
+   "parents": [
+    {
+     "name": "Indri Mahanani Astuti"
+    },
+    {
+     "name": "Wisnu Utomo"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9DBiBF"
+    },
+    {
+     "name": "Class 9DChNIB"
+    },
+    {
+     "name": "Class 9DGgNAF"
+    },
+    {
+     "name": "Class 9DHiBEW"
+    },
+    {
+     "name": "Class 9DPhHI"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class Whistler House"
+    },
+    {
+     "name": "Class WLhMJO"
+    },
+    {
+     "name": "Class WLhMJO"
+    },
+    {
+     "name": "House Whistler House"
+    },
+    {
+     "name": "RegGrp WLhMJO"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Whistler Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Isabel Vele",
+   "parents": [
+    {
+     "name": "Alice Vele"
+    },
+    {
+     "name": "Andrew Vele"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaNIA"
+    },
+    {
+     "name": "Class 9aPePN"
+    },
+    {
+     "name": "Class 9EEnMIS"
+    },
+    {
+     "name": "Class 9GGm8aPN"
+    },
+    {
+     "name": "Class 9GGm8bPN"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YFr3SIA"
+    },
+    {
+     "name": "Class 9ZDf1JUA"
+    },
+    {
+     "name": "Class Sandpiper House"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "House Sandpiper House"
+    },
+    {
+     "name": "RegGrp SPhJNB"
+    },
+    {
+     "name": "Sandpiper Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Afiqah Wan",
+   "parents": [
+    {
+     "name": "Marisca Anggraeni"
+    },
+    {
+     "name": "Bazli Wan"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XMy1MEA"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZCp1CR"
+    },
+    {
+     "name": "Class Heron House"
+    },
+    {
+     "name": "Class HRhSH"
+    },
+    {
+     "name": "Class HRhSH"
+    },
+    {
+     "name": "Heron Students"
+    },
+    {
+     "name": "House Heron House"
+    },
+    {
+     "name": "RegGrp HRhSH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Lyubing Wang",
+   "parents": [
+    {
+     "name": "Ya Chen"
+    },
+    {
+     "name": "Zhuo Wang"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaRAN"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9ZCe1ZG"
+    },
+    {
+     "name": "Class Eagle House"
+    },
+    {
+     "name": "Class EGhEDH"
+    },
+    {
+     "name": "Class EGhEDH"
+    },
+    {
+     "name": "Class ILP/GgLUW"
+    },
+    {
+     "name": "Class ILP/HiLUW"
+    },
+    {
+     "name": "Class ILP/LaSUW"
+    },
+    {
+     "name": "Class ILPAd2ROC"
+    },
+    {
+     "name": "Class ILPCp2JOC"
+    },
+    {
+     "name": "Class ILPDpJAB"
+    },
+    {
+     "name": "Class ILPE2SUW"
+    },
+    {
+     "name": "Class ILPLa2SUW"
+    },
+    {
+     "name": "Class ILPScRIH"
+    },
+    {
+     "name": "Eagle Students"
+    },
+    {
+     "name": "House Eagle House"
+    },
+    {
+     "name": "RegGrp EGhEDH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Oscar Whitehead",
+   "parents": [
+    {
+     "name": "Lynne Hutchinson-Whitehead"
+    },
+    {
+     "name": "Timothy Whitehead"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9AMaNIA"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9XMu1NES"
+    },
+    {
+     "name": "Class 9YFr2PE"
+    },
+    {
+     "name": "Class 9ZAd1SD"
+    },
+    {
+     "name": "Class SFhPHM"
+    },
+    {
+     "name": "Class SFhPHM"
+    },
+    {
+     "name": "Class Swift House"
+    },
+    {
+     "name": "House Swift House"
+    },
+    {
+     "name": "RegGrp SFhPHM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Swift Students"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Emerald Win",
+   "parents": [
+    {
+     "name": "Mo Mo Aung"
+    },
+    {
+     "name": "Kyaw Naing Win"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Blackeye Students"
+    },
+    {
+     "name": "Class 9AMaRAN"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9XAd1MAT"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZCn2WEI"
+    },
+    {
+     "name": "Class BKhALT"
+    },
+    {
+     "name": "Class BKhALT"
+    },
+    {
+     "name": "Class Blackeye House"
+    },
+    {
+     "name": "House Blackeye House"
+    },
+    {
+     "name": "RegGrp BKhALT"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Irfan Ya'akob",
+   "parents": [
+    {
+     "name": "Hjh Dyg Hassanah Hj Awg Hassan"
+    },
+    {
+     "name": "Anak Hj Yaakob Pg Anak Hj Sallehuddin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Argus Students"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeJHA"
+    },
+    {
+     "name": "Class 9GGm7bJHA"
+    },
+    {
+     "name": "Class 9GGmJHA"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9UBiDAH"
+    },
+    {
+     "name": "Class 9UChJNN"
+    },
+    {
+     "name": "Class 9UGgMCK"
+    },
+    {
+     "name": "Class 9UHiGF"
+    },
+    {
+     "name": "Class 9UPhMKC"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo1JAD"
+    },
+    {
+     "name": "Class AGhWIK"
+    },
+    {
+     "name": "Class AGhWIK"
+    },
+    {
+     "name": "Class Argus House"
+    },
+    {
+     "name": "House Argus House"
+    },
+    {
+     "name": "RegGrp AGhWIK"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Yew Yi Yap",
+   "parents": [
+    {
+     "name": "Bee Fong Ang"
+    },
+    {
+     "name": "Boon Siang Yap"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1Ma4CHW"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9OEnMIS"
+    },
+    {
+     "name": "Class 9XAdROC"
+    },
+    {
+     "name": "Class 9YDp1JAB"
+    },
+    {
+     "name": "Class 9ZCn2WEI"
+    },
+    {
+     "name": "Class FBhBRH"
+    },
+    {
+     "name": "Class FBhBRH"
+    },
+    {
+     "name": "Class Fireback House"
+    },
+    {
+     "name": "Fireback Students"
+    },
+    {
+     "name": "House Fireback House"
+    },
+    {
+     "name": "RegGrp FBhBRH"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Yuma Yasuda",
+   "parents": [
+    {
+     "name": "Hiroe Yasuda"
+    },
+    {
+     "name": "Masaya Yasuda"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPHM"
+    },
+    {
+     "name": "Class 9bPeCT"
+    },
+    {
+     "name": "Class 9GGm2bANV"
+    },
+    {
+     "name": "Class 9GGmCT/ANV"
+    },
+    {
+     "name": "Class 9ZMu1NES"
+    },
+    {
+     "name": "Class Hawk House"
+    },
+    {
+     "name": "Class HKhMRD"
+    },
+    {
+     "name": "Class HKhMRD"
+    },
+    {
+     "name": "Class ILP/GgLUW"
+    },
+    {
+     "name": "Class ILP/HiLUW"
+    },
+    {
+     "name": "Class ILP/LaSUW"
+    },
+    {
+     "name": "Class ILPAd2ROC"
+    },
+    {
+     "name": "Class ILPCp2JOC"
+    },
+    {
+     "name": "Class ILPDpJAB"
+    },
+    {
+     "name": "Class ILPE2SUW"
+    },
+    {
+     "name": "Class ILPLa2SUW"
+    },
+    {
+     "name": "Class ILPScRIH"
+    },
+    {
+     "name": "Hawk Students"
+    },
+    {
+     "name": "House Hawk House"
+    },
+    {
+     "name": "RegGrp HKhMRD"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Sam Yee",
+   "parents": [
+    {
+     "name": "Kelly Yee"
+    },
+    {
+     "name": "Philip Yee"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaPAG"
+    },
+    {
+     "name": "Class 9bPeLCG"
+    },
+    {
+     "name": "Class 9GGm6bLCG"
+    },
+    {
+     "name": "Class 9GGmLCG"
+    },
+    {
+     "name": "Class 9NBiSH"
+    },
+    {
+     "name": "Class 9NChOLP"
+    },
+    {
+     "name": "Class 9NEnJUC"
+    },
+    {
+     "name": "Class 9NGgFS"
+    },
+    {
+     "name": "Class 9NHiALC"
+    },
+    {
+     "name": "Class 9NPhSML"
+    },
+    {
+     "name": "Class 9XDr1WIK"
+    },
+    {
+     "name": "Class 9YMu1NES"
+    },
+    {
+     "name": "Class 9ZCn1KK"
+    },
+    {
+     "name": "Class Heron House"
+    },
+    {
+     "name": "Class HRhKIM"
+    },
+    {
+     "name": "Class HRhKIM"
+    },
+    {
+     "name": "Heron Students"
+    },
+    {
+     "name": "House Heron House"
+    },
+    {
+     "name": "RegGrp HRhKIM"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Alexander Yong",
+   "parents": [
+    {
+     "name": "Kalia Yong"
+    },
+    {
+     "name": "Teck-Nyek Yong"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma3CHW"
+    },
+    {
+     "name": "Class 9aPeDVS"
+    },
+    {
+     "name": "Class 9EBiNIS"
+    },
+    {
+     "name": "Class 9EChCAG"
+    },
+    {
+     "name": "Class 9EGgLUW"
+    },
+    {
+     "name": "Class 9EHiCHD"
+    },
+    {
+     "name": "Class 9EPhSML"
+    },
+    {
+     "name": "Class 9GGm5bDVS"
+    },
+    {
+     "name": "Class 9GGmDVS"
+    },
+    {
+     "name": "Class 9JEEnHAB"
+    },
+    {
+     "name": "Class 9XDp1CLG"
+    },
+    {
+     "name": "Class 9YFr1ALT"
+    },
+    {
+     "name": "Class 9ZCn2WEI"
+    },
+    {
+     "name": "Class MNhCR"
+    },
+    {
+     "name": "Class MNhCR"
+    },
+    {
+     "name": "Class Monarch House"
+    },
+    {
+     "name": "House Monarch House"
+    },
+    {
+     "name": "Monarch Students"
+    },
+    {
+     "name": "RegGrp MNhCR"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Fifi Yusra",
+   "parents": [
+    {
+     "name": "Rosleeza Haji Hamdan"
+    },
+    {
+     "name": "Yusra Mohd Salleh"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9B1MaGEJ"
+    },
+    {
+     "name": "Class 9bPeDAD"
+    },
+    {
+     "name": "Class 9E2MID"
+    },
+    {
+     "name": "Class 9GGm3bDAD"
+    },
+    {
+     "name": "Class 9GGmDAD"
+    },
+    {
+     "name": "Class 9OBiNIS"
+    },
+    {
+     "name": "Class 9OChKR"
+    },
+    {
+     "name": "Class 9OGgMCK"
+    },
+    {
+     "name": "Class 9OHiDBP"
+    },
+    {
+     "name": "Class 9OPhJUP"
+    },
+    {
+     "name": "Class 9XCp1JOC"
+    },
+    {
+     "name": "Class 9YDf1JUA"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class Skylark House"
+    },
+    {
+     "name": "Class SLhSUW"
+    },
+    {
+     "name": "Class SLhSUW"
+    },
+    {
+     "name": "House Skylark House"
+    },
+    {
+     "name": "RegGrp SLhSUW"
+    },
+    {
+     "name": "Skylark Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  },
+  {
+   "name": "Fifi Zainal Arifin",
+   "parents": [
+    {
+     "name": "Rohaniyati Pehin Dato SP Hj Md Salleh"
+    },
+    {
+     "name": "Zainal Arifin Zainuddin"
+    }
+   ],
+   "classes": [
+    {
+     "name": "6196 ADP - All Students"
+    },
+    {
+     "name": "All Students Secondary"
+    },
+    {
+     "name": "Class 9A1Ma4ADT"
+    },
+    {
+     "name": "Class 9aPeANV"
+    },
+    {
+     "name": "Class 9GGm1bCA"
+    },
+    {
+     "name": "Class 9GGmCA"
+    },
+    {
+     "name": "Class 9JBiKLM"
+    },
+    {
+     "name": "Class 9JChPK"
+    },
+    {
+     "name": "Class 9JGgCHD"
+    },
+    {
+     "name": "Class 9JHiBEW"
+    },
+    {
+     "name": "Class 9JPhJUP"
+    },
+    {
+     "name": "Class 9UEnROB"
+    },
+    {
+     "name": "Class 9XDf1JUA"
+    },
+    {
+     "name": "Class 9YAd1TRP"
+    },
+    {
+     "name": "Class 9ZMo2AFA"
+    },
+    {
+     "name": "Class Sandpiper House"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "Class SPhJNB"
+    },
+    {
+     "name": "House Sandpiper House"
+    },
+    {
+     "name": "RegGrp SPhJNB"
+    },
+    {
+     "name": "Sandpiper Students"
+    },
+    {
+     "name": "Students Year 9"
+    },
+    {
+     "name": "Year 9"
+    }
+   ]
+  }
+ ]
+}
